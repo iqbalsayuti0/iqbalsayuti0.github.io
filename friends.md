@@ -31,3 +31,4 @@ Berikut teman-teman saya di kelas:
 24. [Maila Aziza](https://mailaazizaa.github.io)
 25. [Maisha Zahrani](https://maishazahrani.github.io)
 26. [Malia Ulfa](https://maliaulfa2.github.io)
+27. [alvi syahril](https://alvi0syahril.github.io)
