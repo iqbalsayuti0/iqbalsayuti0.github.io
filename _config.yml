@@ -1,1 +1,6 @@
 url : https//:iqbalsayuti0.github.io
+
+plugins :
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
