@@ -17,8 +17,10 @@ _site/
 # Ignore Byebug command history file.
 .byebug_history
 
+#ignore all file in ANY directory named_site
+_site/
+
 ## Specific to RubyMotion:
-_site
 .dat*
 .repl_history
 build/
