@@ -1,6 +1,6 @@
-url : https//:iqbalsayuti0.github.io
+url: "https://kaisan969.github.io"
 
-plugins :
+plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag`
+  - jekyll-seo-tag
