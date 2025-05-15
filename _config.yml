@@ -8,4 +8,4 @@ plugins:
   # _config.yml
 sass:
   load_paths:
-    - _sass
+    - _SASS
