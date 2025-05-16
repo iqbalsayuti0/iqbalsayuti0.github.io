@@ -5,7 +5,7 @@ title: Friends
 
 
 Berikut teman-teman saya di kelas:
-1. [Ahmad Aulia Fahlevi](https://alvi0syahril.github.io)
+1. [Ahmad Aulia Fahlevi](https://lepii1.github.io/)
 2. [Faizul Abrar](https://faizul-abrar.github.io)
 3. [hafidz maulana](https://hafidzmaulana28.github.io)
 4. [hayzar muhaiyar](https://hayzarmuhaiyar0101.github.io)
